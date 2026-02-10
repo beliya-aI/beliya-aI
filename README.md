@@ -1,16 +1,16 @@
-## Hi there 👋
+Computer Programming background with a focus on Offensive Security.
+Interested in system behavior, failure modes, and low-level analysis.
+*C *Linux *Networking fundamentals
 
-<!--
-**slcyha/slcyha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current Focus
+-Learning low-level programming and memory behavior in C
+-Studying Linux systems and basic networking concepts
+-Practicing system analysis through labs and small experiments
 
-Here are some ideas to get you started:
+Projects & Practice
+- Small C programs exploring memory allocation and pointers
+- Linux-based experiments to understand process behavior
+- Notes related to system security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mindset
+I’m interested in understanding why systems break under pressure, not just how they work.
