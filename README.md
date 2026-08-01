@@ -6,7 +6,7 @@ hedefim AI red teaming ve LLM güvenliği alanında derinleşmek.
 
 Şu an üzerinde çalıştığım
 
-Portswigger üzerindeki labları çözmek
+Portswigger üzerindeki ai labları çözmek ve PyTorch, LangChain toolları öğrenmek.
 
 Araçlar
 
