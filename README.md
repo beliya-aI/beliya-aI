@@ -10,7 +10,7 @@ Portswigger üzerindeki labları çözmek
 
 Araçlar
 
-C · Linux · Kali · Docker · Ollama · PyTorch · LangChain · Garak · PyRIT
+C · Linux · Kali · Docker · Ollama · Garak · PyRIT
 
 Nerede bulunurum
 
