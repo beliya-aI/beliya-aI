@@ -6,7 +6,7 @@ hedefim AI red teaming ve LLM güvenliği alanında derinleşmek.
 
 Şu an üzerinde çalıştığım
 
-DVAIA-Walkthrough — LLM zafiyetlerini ve AI güvenlik konseptlerini test etmek için kurduğum Docker tabanlı yerel ortam.
+Portswigger üzerindeki labları çözmek
 
 Araçlar
 
